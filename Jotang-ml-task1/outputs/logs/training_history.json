@@ -408,8 +408,12 @@
     0.9533333333333334
   ],
   "best_val_loss": 0.09191547920306524,
+  "best_epoch": 52,
   "test_loss": 0.09810140053431193,
   "test_accuracy": 0.9733333333333334,
-  "training_time_seconds": 0.9370238999836147,
-  "parameter_count": 129
+  "training_time_seconds": 1.672164099989459,
+  "parameter_count": 129,
+  "peak_gpu_memory_mb": null,
+  "device": "cpu",
+  "restored_best_validation_model": true
 }

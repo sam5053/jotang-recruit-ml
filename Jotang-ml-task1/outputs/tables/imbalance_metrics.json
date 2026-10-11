@@ -1,0 +1,16 @@
+{
+  "class_counts_all": [
+    950,
+    50
+  ],
+  "class_counts_test": [
+    143,
+    7
+  ],
+  "accuracy": 0.98,
+  "balanced_accuracy": 0.7857142857142857,
+  "minority_precision": 1.0,
+  "minority_recall": 0.5714285714285714,
+  "minority_f1": 0.7272727272727273,
+  "mean_probability_class_1": 0.04570405185222626
+}

@@ -1,0 +1,12 @@
+{
+  "train_samples": 80,
+  "label_flips": 24,
+  "final_train_accuracy": 0.975,
+  "final_validation_accuracy": 0.6466666666666666,
+  "final_test_accuracy": 0.7,
+  "final_train_loss": 0.038712168717756866,
+  "final_validation_loss": 3.2866594632466635,
+  "accuracy_gap_train_minus_validation": 0.32833333333333337,
+  "best_validation_epoch": 7,
+  "parameter_count": 50049
+}
