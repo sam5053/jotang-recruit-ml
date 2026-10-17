@@ -1,0 +1,24 @@
+{
+  "fully_connected": {
+    "parameters": 9830786,
+    "best_val_accuracy": 0.62,
+    "test_accuracy": 0.5533333333333333
+  },
+  "cnn": {
+    "parameters": 241090,
+    "best_val_accuracy": 0.6066666666666667,
+    "test_accuracy": 0.5466666666666666
+  },
+  "setup": {
+    "max_per_class": 500,
+    "epochs": 8,
+    "image_size": 160,
+    "batch_size": 64,
+    "seed": 42,
+    "split_sizes": {
+      "train": 700,
+      "val": 150,
+      "test": 150
+    }
+  }
+}
